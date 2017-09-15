@@ -1,5 +1,5 @@
 # Haiku
-・実行について
+## 実行について
 	python seq2seq.py -g　で実行
 	chainerは1.24.0
 	elm15で実行
